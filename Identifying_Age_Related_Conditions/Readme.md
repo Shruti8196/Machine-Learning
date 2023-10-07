@@ -1,7 +1,7 @@
 # ICR - Identifying Age-Related Conditions
 Use Machine Learning to detect conditions with measurements of anonymous characteristics
 
-![image]([https://github.com/Shruti8196/Machine-Learning/assets/58331403/ba5d846a-5911-4421-b7f2-a9bbaa797ba3](https://github.com/Shruti8196/Machine-Learning/blob/main/Identifying_Age_Related_Conditions/Cells-01.jpg)
+![image](https://github.com/Shruti8196/Machine-Learning/blob/main/Identifying_Age_Related_Conditions/Cells-01.jpg)
 
 ## Description
 
