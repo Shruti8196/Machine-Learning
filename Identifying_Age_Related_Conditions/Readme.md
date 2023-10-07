@@ -1,17 +1,17 @@
-### ICR - Identifying Age-Related Conditions
+# ICR - Identifying Age-Related Conditions
 Use Machine Learning to detect conditions with measurements of anonymous characteristics
 
 
-### Description
+## Description
 
-**1. Goal of the Competition**
+### Goal of the Competition
 The goal of this competition is to predict if a person has any of three medical conditions. We are being asked to predict if the person has one or more of any of the three medical conditions (Class 1), or none of the three medical conditions (Class 0). We will create a model trained on measurements of health characteristics.
 
 To determine if someone has these medical conditions requires a long and intrusive process to collect information from patients. With predictive models, we can shorten this process and keep patient details private by collecting key characteristics relative to the conditions, then encoding these characteristics.
 
 This work will help researchers discover the relationship between measurements of certain characteristics and potential patient conditions.
 
-**2. Context**
+### 2. Context
 They say age is just a number but a whole host of health issues come with aging. From heart disease and dementia to hearing loss and arthritis, aging is a risk factor for numerous diseases and complications. The growing field of bioinformatics includes research into interventions that can help slow and reverse biological aging and prevent major age-related ailments. Data science could have a role to play in developing new methods to solve problems with diverse data, even if the number of samples is small.
 
 Currently, models like XGBoost and random forest are used to predict medical conditions yet the models' performance is not good enough. Dealing with critical problems where lives are on the line, models need to make correct predictions reliably and consistently between different cases.
